@@ -10,11 +10,11 @@ typing_extensions_deps = copy_metadata("typing_extensions")
 
 # Основные файлы и папки вашего приложения
 datas = [
-    ('main.py', '.'),
-    ('sidebar.py', '.'),
-    ('requirements.txt', '.'),
-    ('pages', 'pages'),
-    ('.streamlit', '.streamlit'),
+    ('.\\main.py', '.'),
+    ('.\\sidebar.py', '.'),
+    ('.\\requirements.txt', '.'),
+    ('.\\pages', 'pages'),
+    ('.\\.streamlit', '.streamlit'),
 ]
 
 hiddenimports = ['streamlit.web.bootstrap']
