@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc3c2fb5-47e8-4828-a0b3-884a6169698a" name="Changes" comment="Code update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SpacePisun"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SpacePisun/OEEG_plot.git",
+    "accountId": "2e506f9c-b9c5-4b7c-a179-65373edcaab3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wAoK7WOenkOTBb5puB58EPx1Re" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vipzh/Desktop/OEEG_plot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc3c2fb5-47e8-4828-a0b3-884a6169698a" name="Changes" comment="" />
+      <created>1745493672745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745493672745</updated>
+      <workItem from="1745493674102" duration="1335000" />
+      <workItem from="1745495531083" duration="4063000" />
+      <workItem from="1745479581754" duration="181000" />
+      <workItem from="1745482265084" duration="1030000" />
+      <workItem from="1745565879828" duration="16000" />
+      <workItem from="1745816312230" duration="4286000" />
+      <workItem from="1745820699452" duration="4811000" />
+      <workItem from="1745825752413" duration="1407000" />
+      <workItem from="1745827265647" duration="2743000" />
+      <workItem from="1745830247140" duration="1190000" />
+      <workItem from="1745831458437" duration="8001000" />
+      <workItem from="1745842717374" duration="1544000" />
+      <workItem from="1745981862264" duration="30000" />
+      <workItem from="1746020900920" duration="2185000" />
+      <workItem from="1746261216698" duration="4638000" />
+      <workItem from="1746324951848" duration="1098000" />
+      <workItem from="1746326072752" duration="320000" />
+      <workItem from="1746356407541" duration="540000" />
+      <workItem from="1746357165151" duration="721000" />
+      <workItem from="1746403454231" duration="1648000" />
+      <workItem from="1746405177367" duration="2426000" />
+      <workItem from="1746407637244" duration="1208000" />
+      <workItem from="1746491795429" duration="4526000" />
+      <workItem from="1746529935246" duration="2188000" />
+      <workItem from="1746532254442" duration="3540000" />
+      <workItem from="1746541234820" duration="1102000" />
+      <workItem from="1746664828500" duration="571000" />
+      <workItem from="1746665425991" duration="563000" />
+      <workItem from="1746774029881" duration="1065000" />
+      <workItem from="1746775126734" duration="340000" />
+      <workItem from="1746856840686" duration="22000" />
+      <workItem from="1746891336007" duration="129000" />
+      <workItem from="1747045476415" duration="4165000" />
+      <workItem from="1747053666696" duration="2431000" />
+      <workItem from="1748336512467" duration="448000" />
+      <workItem from="1748336979580" duration="96000" />
+      <workItem from="1748337129814" duration="779000" />
+      <workItem from="1748681743352" duration="3942000" />
+    </task>
+    <task id="LOCAL-00001" summary="Code update">
+      <option name="closed" value="true" />
+      <created>1748683174858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748683174858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code update" />
+  </component>
+</project>
