@@ -10,21 +10,21 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest  # Используем Windows для совместимости с вашей сборкой
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.11'  # Укажите версию Python, которую используете
+        python-version: '3.11'
 
     - name: Cache pip dependencies
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
-        path: ~/.cache/pip
+        path: ~\AppData\Local\pip\Cache
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
@@ -45,16 +45,15 @@ jobs:
         Compress-Archive -Path launcher -DestinationPath OEEG_plot.zip
 
     - name: Upload build artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: OEEG_plot-executable
         path: dist/OEEG_plot.zip
         retention-days: 30
 
-    # Автоматически создаем release при создании тега
     - name: Create Release
       if: startsWith(github.ref, 'refs/tags/v')
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       with:
         files: dist/OEEG_plot.zip
         draft: false
